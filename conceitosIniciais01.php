@@ -7,8 +7,9 @@
 
     if($temCarro == "sim")
     {
-        echo "Atravessei a rua";
-    } else {
         echo "Não atravessei a rua";
+
+    } else {
+        echo "Atravessei a rua";
     }
 ?>
